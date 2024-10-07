@@ -1,2 +1,3 @@
-# Example-Repo
-It is created for testing purpose
+# Galaxy Programming Language
+
+A programming language inspired by JavaScript and Python.
